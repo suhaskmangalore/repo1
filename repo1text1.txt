@@ -4,3 +4,5 @@ this is a test file
 Welcome to Git
 
 Added new line to check pull
+
+adding new line from cmd to check puch and commit
