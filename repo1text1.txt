@@ -6,3 +6,5 @@ Welcome to Git
 Added new line to check pull
 
 adding new line from cmd to check puch and commit
+
+Adding new line from TEst to check commit in git
